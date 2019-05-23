@@ -1,5 +1,6 @@
 if=yzn\if.tpl
 ife=yzn\if_else.tpl
+eif=yzn\elsif.tpl
 %T=MINDAUGASL\%TYPE.tpl
 s=DML statements\Select.tpl
 print=MINDAUGASL\put_line(pl).tpl
@@ -33,7 +34,7 @@ in=MINDAUGASL\in.tpl
 extract=MINDAUGASL\extract.tpl
 inner=MINDAUGASL\inner.tpl
 case=MINDAUGASL\case.tpl
-when=MINDAUGASL\when.tpl
+when=yzn\when.tpl
 edited=Comments\Edited.tpl
 to_date=MINDAUGASL\to_date.tpl
 upper=MINDAUGASL\upper.tpl
@@ -49,5 +50,8 @@ proc=Program units\Procedure.tpl
 pkg=Program units\Package.tpl
 w=where
 f=from
+nodata=NO_DATA_FOUND
+be=yzn\begin_end.tpl
+
 
 
