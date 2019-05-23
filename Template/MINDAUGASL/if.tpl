@@ -1,4 +1,4 @@
-if [#]
-then
+IF [#]
+THEN
   
-end if;
+END IF;

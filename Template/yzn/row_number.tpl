@@ -1,0 +1,1 @@
+row_number over (partition by [Partition By=a] order by [OrderBy=b] ) rnk  
