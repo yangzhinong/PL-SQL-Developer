@@ -1,5 +1,5 @@
-if=MINDAUGASL\if.tpl
-ife=MINDAUGASL\if_else.tpl
+if=yzn\if.tpl
+ife=yzn\if_else.tpl
 %T=MINDAUGASL\%TYPE.tpl
 s=DML statements\Select.tpl
 print=MINDAUGASL\put_line(pl).tpl
